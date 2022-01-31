@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Inter:wght@400;500;600;700&family=Open+Sans+Condensed:wght@300&family=Poppins&family=Quintessential&display=swap');
+body
+{
+   font-family:'Poppins', sans-serif; 
+  
+   
+}
+.intro
+{
+    display: grid;
+   grid-template-columns:auto auto;
+   margin-top: 2em;
+}
+.list
+{
+    margin: 1em;
+}
+.main
+{
+    margin-left: 8em;
+    margin-right: 8em;
+}   
+.rightcontent
+{
+   margin-left: 2em;
+}
+div.head
+{
+  font-family: 'Quintessential', cursive;
+  text-align: left;
+  font-size: xx-large;
+  margin-top: 1em,1em;
+  height: 100px;
+}
+div.items
+{
+    font-family:'Open Sans Condensed', sans-serif;
+    font-size: large;
+
+    text-align: right;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    word-spacing: 30px;
+    
+}
+.hl
+{
+    border-top: 2px solid rgb(216, 224, 216);
+    height: fit-content;
+}
+
+h2
+{
+    color: brown;
+}
+
+fieldset
+{
+    height: 100px;
+    background-color: black;
+    color: white;
+    margin-top: 2em;
+    text-align: center;
+}
